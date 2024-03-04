@@ -1,8 +1,13 @@
 # intellicam
 
-A new Flutter project.
+An Intelligent Camera with real-time object detection
 
 ## Getting Started
+
+To run the project:
+- Clone the repository
+- Get all the packages/dependencies by running: flutter pub get
+- Run the app on an emulator or physical Android device: flutter run
 
 This project is a starting point for a Flutter application.
 
