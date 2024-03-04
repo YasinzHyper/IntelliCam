@@ -1,5 +1,5 @@
-![WhatsApp Image 2024-03-04 at 10 32 20 PM](https://github.com/YasinzHyper/IntelliCam/assets/113431400/a7a49c1f-3fbb-4aef-bb78-577b2f3400ba)
-![WhatsApp Image 2024-03-04 at 10 32 20 PM (1)](https://github.com/YasinzHyper/IntelliCam/assets/113431400/21c48a6f-fcc6-4f4a-8dde-a16905b829c2)
+
+
 
 
 https://github.com/YasinzHyper/IntelliCam/assets/113431400/bb4c2344-0174-437a-a092-0f551543e4f1
@@ -18,7 +18,10 @@ To run the project:
 - Get all the packages/dependencies by running: flutter pub get
 - Run the app on an emulator or physical Android device: flutter run
 
-This project is a starting point for a Flutter application.
+## Some working snapshots:
+![WhatsApp Image 2024-03-04 at 10 32 20 PM (1)](https://github.com/YasinzHyper/IntelliCam/assets/113431400/21c48a6f-fcc6-4f4a-8dde-a16905b829c2)
+![WhatsApp Image 2024-03-04 at 10 32 20 PM](https://github.com/YasinzHyper/IntelliCam/assets/113431400/a7a49c1f-3fbb-4aef-bb78-577b2f3400ba)
+
 
 A few resources to get you started if this is your first Flutter project:
 
