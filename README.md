@@ -1,6 +1,7 @@
 # intellicam
 
-An Intelligent Camera with real-time object detection
+An Intelligent Camera with real-time object detection and object classification.
+This project utilizes the tensorFLow Lite library for running the model for object detection and classification.
 
 ## Getting Started
 
