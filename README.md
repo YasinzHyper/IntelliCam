@@ -3,6 +3,8 @@
 An Intelligent Camera with real-time object detection and object classification.
 This project utilizes the tensorFLow Lite library for running the model for object detection and classification.
 
+Note: (Work in progress) The zoom function for a specific device may not work 100% accurately depending on the device used.
+
 ## Getting Started
 
 To run the project:
